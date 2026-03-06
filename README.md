@@ -19,7 +19,7 @@ This project uses **Google Apps Script** to automatically generate **sales repor
 ---
 
 ### 📊 Google Sheet2
-![Sheet View](Sheet 1 salesman report.png)
+![Sheet View](Sheet1-salesman-report.png)
 
 ---
 
