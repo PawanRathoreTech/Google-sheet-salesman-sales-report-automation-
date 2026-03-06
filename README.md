@@ -13,6 +13,7 @@ This project uses **Google Apps Script** to automatically generate **sales repor
 
 📸 Screenshots
 📊 Google Sheet1
+
 ![Sheet View](Sheet 1 salesman report.png)
 
 ---
