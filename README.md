@@ -29,7 +29,7 @@ This project uses **Google Apps Script** to automatically generate **sales repor
 ---
 
 ### 📧 Email Output
-![Email Output](email-output.png)
+![Email Output](Email-output.png)
 
 
 
