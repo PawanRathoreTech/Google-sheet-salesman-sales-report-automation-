@@ -11,25 +11,26 @@ This project uses **Google Apps Script** to automatically generate **sales repor
 * Works directly with **Google Sheets data**
 
 
-📸 Screenshots
-📊 Google Sheet1
+## 📸 Screenshots
 
+### 📊 Google Sheet1
+![Sheet View](sheet-view.png)
+
+---
+
+### 📊 Google Sheet2
 ![Sheet View](Sheet 1 salesman report.png)
 
 ---
 
-📊 Google Sheet2
-![Sheet View](Sheet2 salesman's data.png)
-
----
-
 ### 💻 Apps Script Code
-![Script Code](Code .gs)
+![Script Code](script-code.png)
 
 ---
 
 ### 📧 Email Output
-![Email Output](Email output.png)
+![Email Output](email-output.png)
+
 
 
 ## 📂 Project Structure
