@@ -23,11 +23,6 @@ This project uses **Google Apps Script** to automatically generate **sales repor
 
 ---
 
-### 💻 Apps Script Code
-![Script Code](script-code.png)
-
----
-
 ### 📧 Email Output
 ![Email Output](Email-output.png)
 
